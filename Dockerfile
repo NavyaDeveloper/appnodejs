@@ -1,4 +1,4 @@
-FROM node:latest AS BASE
+FROM node:latest AS BASE1
 
 WORKDIR /usr/src/app
 
